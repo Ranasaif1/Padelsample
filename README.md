@@ -86,12 +86,8 @@ Padelsample/
 
 ## 👨‍💻 Author & Credits
 
-Designed and developed by **Zarvix Digital**.
+Designed by Rana Saif and developed by **Zarvix Digital**.
 
 If you like this project, don't forget to leave a ⭐ on this repository!
 
-```
 
-**Note:** `Live Demo` wale button mein maine aapke Vercel ka dummy link (`[https://padelsample.vercel.app/](https://padelsample.vercel.app/)`) laga diya hai. Agar link thoda mukhtalif ho toh usko bracket `( )` ke andar change kar lijiye ga. Is README mein badges, emojis, aur clean structure hai jo code ko bohat professional look dega!
-
-```
