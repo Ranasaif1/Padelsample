@@ -1,16 +1,29 @@
-# React + Vite
+# 🎾 Elite Padel & Tennis Club Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, premium, and highly interactive landing page designed for a Padel and Tennis Club. Built from scratch using **React.js** and **Tailwind CSS**, focusing on high performance, smooth animations, and a pixel-perfect user interface.
 
-Currently, two official plugins are available:
+[![Live Demo](https://img.shields.io/badge/View_Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://padelsample.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Key Features
 
-## React Compiler
+- **🌟 Parallax Floating Effects:** Engaging scroll animations where elements float seamlessly over a fixed background.
+- **📸 Masonry Image Grid:** A beautiful, responsive gallery layout with smooth hover-zoom transitions.
+- **💬 Custom Testimonials Slider:** A sleek, horizontal scrolling review section with hidden scrollbars.
+- **📅 Interactive Booking UI:** A custom-designed calendar widget for court reservations.
+- **📱 100% Responsive:** Flawless experience across all devices (Mobile, Tablet, and Desktop).
+- **🎨 Modern Aesthetics:** Premium color palette (Lime Green & Deep Blue) with custom typography (Oswald).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend Framework:** [React.js](https://reactjs.org/)
+- **Build Tool:** [Vite ⚡](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment:** [Vercel](https://vercel.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Running the Project Locally
+
+Follow these steps to run the project on your local machine:
+
+**1. Clone the repository:**
+```bash
+git clone [https://github.com/Ranasaif1/Padelsample.git](https://github.com/Ranasaif1/Padelsample.git)
