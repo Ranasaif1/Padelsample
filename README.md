@@ -1,8 +1,4 @@
-Yeh lijiye aapke project ke liye ek behtareen aur highly professional **`README.md`** file! Yeh aapke GitHub profile par aane walay har visitor (ya client) par bohat acha impression dalegi.
 
-Is code ko copy karein aur apne project ke main folder mein `README.md` file bana kar usme paste kar dein:
-
-```markdown
 # 🎾 Elite Padel & Tennis Club Landing Page
 
 A modern, premium, and highly interactive landing page designed for a Padel and Tennis Club. Built from scratch using **React.js** and **Tailwind CSS**, focusing on high performance, smooth animations, and a pixel-perfect user interface.
